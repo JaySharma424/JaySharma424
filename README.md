@@ -1,7 +1,7 @@
 # Hi, I'm Dhananjay Kumar Sharma 👋
 
 🎓 MCA Student at Patna University  
-📊 Aspiring Data Analyst / Data Scientist  
+📊 Enthusiastic Data Analyst / Data Scientist / ML Engineer 
 💻 Python | SQL | Machine Learning | Power BI | DSA | Deep Learning
 
 ---
