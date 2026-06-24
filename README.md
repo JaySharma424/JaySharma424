@@ -82,7 +82,7 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Applied preprocessing, feature selection, and classification techniques
 - Achieved strong model performance with Random Forest and evaluation metrics
 
-🔗 Repo: [Add your repo link here]
+🔗 Repo: [https://github.com/JaySharma424/Data-Science/blob/main/Projects/Android_Authenticity_Prediction.ipynb]
 
 ---
 
