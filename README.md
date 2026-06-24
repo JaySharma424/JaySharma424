@@ -62,7 +62,7 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Worked on retinal fundus images from the **APTOS 2019 dataset**
 - Designed preprocessing, augmentation, feature extraction, and classification pipeline for 5 DR stages
 
-🔗 Repo: Diabetic Retinopathy
+🔗 Repo: [(https://github.com/JaySharma424/Deep-Learning)]
 
 ---
 
@@ -72,7 +72,7 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Applied **TF-IDF**, **Truncated SVD**, and clustering algorithms like **K-Means, DBSCAN, and GMM**
 - Extracted business insights from content trends and content similarity patterns
 
-🔗 Repo: [Add your repo link here]
+🔗 Repo: [(https://github.com/JaySharma424/Data-Science/blob/main/Projects/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING_Project.ipynb)]
 
 ---
 
@@ -92,7 +92,7 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Performed data cleaning, preprocessing, and visualization
 - Built dashboards and multiple visual sheets for insight generation
 
-🔗 Repo: [Add your repo link here]
+🔗 Repo: [(https://github.com/JaySharma424/Data-Science/blob/main/Projects/EDA_Project_Airbnb.ipynb)]
 
 ---
 
@@ -102,19 +102,10 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Practicing problem-solving to improve coding logic and interview preparation
 - Organized solutions topic-wise with clean explanations and test cases
 
-🔗 Repo: [Add your repo link here]
+🔗 Repo: [(https://github.com/JaySharma424/Dsa_with_python)]
 
 ---
 
-## 6) University Management System
-**Tech:** Java, Swing, MySQL  
-- Built a CRUD-based desktop application for managing university records
-- Implemented modules for student and academic data management
-- Designed GUI using Java Swing and connected it with MySQL database
-
-🔗 Repo: [Add your repo link here]
-
----
 
 # 📚 Internship Experience
 
