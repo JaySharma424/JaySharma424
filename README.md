@@ -62,7 +62,7 @@ I enjoy working on real-world datasets, building ML models, creating dashboards,
 - Worked on retinal fundus images from the **APTOS 2019 dataset**
 - Designed preprocessing, augmentation, feature extraction, and classification pipeline for 5 DR stages
 
-🔗 Repo: [Add your repo link here]
+🔗 Repo: Diabetic Retinopathy
 
 ---
 
