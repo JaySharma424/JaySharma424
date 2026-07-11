@@ -1,13 +1,13 @@
 # Hi, I'm Dhananjay Kumar Sharma 👋
 
-🎓 MCA Student at Patna University  
-📊 Enthusiastic Data Analyst / Data Scientist / ML Engineer 
-💻 Python | SQL | Machine Learning | Power BI | DSA | Deep Learning
+🎓 M.sc Computer Science Student at Woolf University  
+📊 Enthusiastic Data Analyst / Data Scientist / ML Engineer / AI Engineer 
+💻 Python | SQL | Machine Learning | Power BI | DSA | Deep Learning | GenAI | Agentic AI
 
 ---
 
 ## 🚀 About Me
-I am an MCA student with a strong interest in **Data Analytics, Machine Learning, Deep Learning, and Problem Solving**.  
+I am an M.sc in computer science student with a strong interest in **Data Analytics, Machine Learning, Deep Learning, and Problem Solving**.  
 I enjoy working on real-world datasets, building ML models, creating dashboards, and solving DSA problems to strengthen my programming and problem-solving skills.
 
 - 📌 Currently focused on **Data Science, Machine Learning, and Analytics projects**
